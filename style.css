@@ -8,6 +8,7 @@ html {
   
 body {
     margin: 0;
+    cursor: default;
 }
 
 *, *:before, *:after {
@@ -42,11 +43,11 @@ body {
     flex-direction: column;
 }
 
-.panel1 { background-image:url(https://source.unsplash.com/1200x1200/?mountain,snow); }
-.panel2 { background-image:url(https://source.unsplash.com/1200x1200/?nature,lake); }
-.panel3 { background-image:url(https://source.unsplash.com/1200x1200/?nature,fields); }
-.panel4 { background-image:url(https://source.unsplash.com/1200x1200/?nature,wild,animal); }
-.panel5 { background-image:url(https://source.unsplash.com/1200x1200/?nature,clouds); }
+.panel1 { background-image:url(img/image1.jpg); }
+.panel2 { background-image:url(img/image2.jpg); }
+.panel3 { background-image:url(img/image3.jpg); }
+.panel4 { background-image:url(img/image4.jpg); }
+.panel5 { background-image:url(img/image5.jpg); }
 
 /* Flex Children */
 .panel > * {
