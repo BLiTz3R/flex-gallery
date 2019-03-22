@@ -1,2 +1,2 @@
 # flex-gallery
-Cool image gallery using CSS flex
+Cool image gallery, fetching random images and animating on click, using CSS flex.
